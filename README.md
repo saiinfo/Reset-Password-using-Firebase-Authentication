@@ -50,7 +50,8 @@ You'll need to handle this URL and extract the necessary information. password i
 The "Reset Password using Firebase Authentication" project aims to create a secure and user-friendly password reset functionality using Firebase. By implementing this feature, users will have a streamlined and hassle-free experience when they need to reset their passwords. The project's successful completion will demonstrate the team's technical skills and commitment to building secure web applications.
 
 ## Project Priview
-![20230803_151905](https://github.com/saiinfo/Reset-Password-using-Firebase-Authentication/assets/26924010/30531a94-f261-40d2-aee1-f9200104e61f)
+![20230803_154542](https://github.com/saiinfo/Reset-Password-using-Firebase-Authentication/assets/26924010/8b3d6105-1893-4fb5-8207-4bfab3f5cc2d)
+
 
 
 
